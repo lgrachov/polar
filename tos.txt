@@ -1,0 +1,5 @@
+- Polar TOS
+- Last updated 22 Sep 2023
+We collect your data, for Discord. We cannot control the TOS and we probably may collect user data, entered text, and other data you send.
+We (may) include your username, discriminitor (aka Tag), and your data, onto our servers.
+We also can control your usage of the bot.
